@@ -1,0 +1,93 @@
+PSP: Postposition
+A word that comes after its complement to express grammatical relationships.
+
+NN: Noun
+A word that represents a person, place, thing, or idea.
+
+VM: Main verb
+The primary verb in a clause that carries the main semantic content.
+
+NNP: Proper noun
+A noun that refers to a specific name of a person, place, or thing.
+
+VAUX: Auxiliary verb
+A verb that accompanies the main verb to convey grammatical distinctions.
+
+SYM: Symbol
+
+A character or sequence of characters that represent a concept, idea, or entity.
+JJ: Adjective
+
+A word that describes or modifies a noun.
+NNPC: Compound noun
+
+A noun that consists of two or more words combined to form a single unit.
+PRP: Pronoun
+
+A word that can function as a noun phrase and refers to a previously mentioned or easily identifiable noun.
+CC: Coordinating conjunction
+
+A word that connects words, phrases, or clauses of equal importance.
+NNC: Classifier noun
+
+A noun that is used in certain languages to classify nouns into different categories.
+QC: Quantity classifier
+
+A word used to express the quantity or amount of something.
+NST: Locative noun
+
+A noun that indicates a location or place.
+DEM: Demonstrative
+
+A word that points to or refers to something specific.
+RP: Particle
+
+A word that does not belong to any of the major word classes but has a grammatical function.
+QF: Quantifier
+
+A word that indicates quantity or extent.
+NEG: Negation
+
+A word or morpheme that indicates negation or denial.
+RB: Adverb
+
+A word that modifies a verb, adjective, or other adverb by providing information about manner, time, place, degree, etc.
+QCC: Quantifier classifier
+
+A word used to classify quantifiers into different categories.
+QO: Ordinal numeral
+
+A word that indicates the order or position in a sequence.
+INTF: Intensifier
+
+A word that emphasizes or strengthens the meaning of another word.
+JJC: Conjunctive adjective
+
+An adjective that connects two clauses or phrases.
+WQ: Wh-adverb
+
+An adverb used to ask questions about manner, time, place, etc.
+RDP: Adverbial particle
+
+A particle that modifies the meaning of a verb, adjective, or adverb.
+UNK: Unknown
+
+Indicates that the POS of the word is unknown or cannot be determined.
+PRPC: Pronoun postposition
+
+A postposition that functions as a pronoun.
+NSTC: Locative noun postposition
+
+A postposition that indicates location or place.
+RBC: Relative pronoun
+
+A pronoun that introduces a relative clause and relates to a noun or pronoun in the main clause.
+QFC: Quantity classifier postposition
+
+A postposition used as a quantity classifier.
+CCC: Coordinating conjunction postposition
+
+A postposition that functions as a coordinating conjunction.
+INJ: Interjection
+
+A word or expression that conveys emotion or sentiment and is typically unrelated to the rest of the sentence.
