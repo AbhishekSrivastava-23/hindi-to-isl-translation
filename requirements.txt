@@ -1,0 +1,13 @@
+stanza>=1.5.0
+nltk>=3.8.1
+spacy>=3.6.0
+pyiwn>=1.0.3
+moviepy>=1.0.3
+streamlit>=1.24.0
+pandas>=2.0.0
+networkx>=3.1
+matplotlib>=3.7.1
+pillow>=9.5.0
+googletrans-py>=4.0.0
+pydot>=1.4.2
+graphviz>=0.20.1
