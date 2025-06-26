@@ -6,7 +6,7 @@ A natural language processing (NLP)-based system that translates **Hindi text or
 ---
 
 ## Project Workflow
-<img src="https://github.com/user-attachments/assets/e1a170ff-cc0a-43b6-a18b-88aefce67d0e" alt="Project Flowchart" width="500"/>
+<img src="https://github.com/user-attachments/assets/e1a170ff-cc0a-43b6-a18b-88aefce67d0e" alt="Project Flowchart" width="333"/>
 
 1. **Input**: Hindi text or speech  
 2. **Processing**: POS tagging, Dependency Parsing, Grammar Transformation  
@@ -112,9 +112,9 @@ streamlit run app.py
 <img src="https://github.com/user-attachments/assets/c9c1377a-1105-4c52-931c-f4043f94ba29" alt="POS Tagging + Dependency Info" width="500"/>
 <img src="https://github.com/user-attachments/assets/75cf507a-b312-4883-b66d-8571331721c8" alt="Dependency Tree Visualization" width="500"/>
 <img src="https://github.com/user-attachments/assets/9587b9d6-d218-472f-84db-fe00a9e3e6a1" alt="Final Word Reordering + Mapping" width="500"/>
-<img src="https://github.com/user-attachments/assets/f165fd76-61bd-4f8c-a1cc-2cbe1fb20cb6" alt='ISL sign for "I / me"' width="332"/>
-<img src="https://github.com/user-attachments/assets/db55c727-ca6e-42a0-9b6b-08d8c6db4a9a" alt='ISL sign for "market"' width="332"/>
-<img src="https://github.com/user-attachments/assets/5accdb61-34de-4391-9ec5-1953bf86c16b" alt='ISL sign for "go"' width="332"/>
+<img src="https://github.com/user-attachments/assets/f165fd76-61bd-4f8c-a1cc-2cbe1fb20cb6" alt='ISL sign for "I / me"' width="333"/>
+<img src="https://github.com/user-attachments/assets/db55c727-ca6e-42a0-9b6b-08d8c6db4a9a" alt='ISL sign for "market"' width="333"/>
+<img src="https://github.com/user-attachments/assets/5accdb61-34de-4391-9ec5-1953bf86c16b" alt='ISL sign for "go"' width="333"/>
 
 
 ### Accuracy: 91.0% 
